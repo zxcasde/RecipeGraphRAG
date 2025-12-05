@@ -1,0 +1,11 @@
+aquatic
+breakfast
+condiment
+dessert
+drink
+meat_dish
+semi-finished
+soup
+staple
+template
+vegetable_dish
