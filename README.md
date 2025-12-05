@@ -45,7 +45,6 @@ pip install streamlit neo4j sentence-transformers openai python-dotenv
 创建 `.env` 文件：
 ```
 DEEPSEEK_API_KEY=your_api_key_here
-$env:DEEPSEEK_API_KEY="sk-c3c8709965474f6f908d0d11d849d2a6" <- 我的api
 NEO4J_URI=bolt://localhost:7687
 NEO4J_USER=neo4j
 NEO4J_PASSWORD=your_password
@@ -91,5 +90,4 @@ streamlit run app.py
 - **向量检索**：SentenceTransformer (paraphrase-multilingual-MiniLM-L12-v2)
 - **图数据库**：Neo4j
 - **语言**：Python 3.8+
-# RecipeGraphRAG
-# RecipeGraphRAG
+
